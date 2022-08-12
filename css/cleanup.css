@@ -1,20 +1,24 @@
 /* write your override styles here */
 #wall .tag-1{
     display: none;
-    {
+}
 
-.tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 800px;
-    height: 400px;
-    {
-        
-        #wall{
-            background: none;
-            border-radius: 20px;
-            background:rgb(16,11,27) 
-            {
+html {
+    max-width: 120ch;
+    padding: 1em 1em;
+    margin: auto;
+    line-height:1.85
+    front-size:1.3em;
+}
+body {
+    font-family: 'Fire Sans', sans-serif;
+    line-height:1.0;
+    color: #222; 
+    max-width: 60rem;
+    padding: 2rem;
+    margin: auto
+    background: #fafafa
+
+}
 
 
